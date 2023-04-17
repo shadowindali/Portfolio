@@ -9853,9 +9853,9 @@ function mp() {
     ],
   });
 }
-const vp = "./assets/portfolio1-f6ab2c00.png",
-  gp = "./assets/portfolio2-2c3c0fcc.png",
-  yp = "./assets/portfolio3-e53b5d72.png";
+const vp = "assets/portfolio1-f6ab2c00.png",
+  gp = "assets/portfolio2-2c3c0fcc.png",
+  yp = "assets/portfolio3-e53b5d72.png";
 function wp() {
   return k("section", {
     id: "Portifolio",
