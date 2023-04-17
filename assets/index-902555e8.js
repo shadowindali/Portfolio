@@ -10099,7 +10099,7 @@ function Np() {
                     children: "+96170506572",
                   }),
                   c("a", {
-                    href: "https://api.whatsapp.com/send?phone+96170506572",
+                    href: "https://wa.me/96170506572",
                     target: "__blank",
                     children: "Send a message",
                   }),
