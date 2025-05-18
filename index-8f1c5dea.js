@@ -9034,7 +9034,7 @@ ke.version = "18.2.0-next-9e3b772b8-20220608";
 })(Uc);
 var qu = bl;
 (ql.createRoot = qu.createRoot), (ql.hydrateRoot = qu.hydrateRoot);
-const Wd = "./cv-be7bdae9.pdf";
+const Wd = "/cv-be7bdae9.pdf";
 function Qd() {
   return P("div", {
     className: "cta",
@@ -9275,7 +9275,7 @@ function bd() {
     ],
   });
 }
-const ep = "./me2-ca1bc277.jpeg";
+const ep = "/me2-ca1bc277.jpeg";
 function tp() {
   return p("section", {
     id: "home",
@@ -9444,7 +9444,7 @@ function up() {
     })
   );
 }
-const sp = "./me-about-dffb5528.jpg";
+const sp = "/me-about-dffb5528.jpg";
 function ap(e) {
   return ce({
     tag: "svg",
@@ -9666,12 +9666,12 @@ function fp() {
     }),
   });
 }
-const dp = "./weshop-1e6ce73d.png",
-  pp = "./chattingapp-7f37810b.png",
-  hp = "./bank-7a7c46b8.png",
-  mp = "./portfolio3-e53b5d72.png",
-  vp = "./portfolio1-f6ab2c00.png",
-  gp = "./portfolio2-2c3c0fcc.png";
+const dp = "/weshop-1e6ce73d.png",
+  pp = "/chattingapp-7f37810b.png",
+  hp = "/bank-7a7c46b8.png",
+  mp = "/portfolio3-e53b5d72.png",
+  vp = "/portfolio1-f6ab2c00.png",
+  gp = "/portfolio2-2c3c0fcc.png";
 function yp() {
   return P("section", {
     id: "Portifolio",
